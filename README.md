@@ -11,5 +11,5 @@ Atividade Pratica com React, um projeto simples de um site de videos que consome
 
 A CHAVE_API foi excluída.
 
-Para criar outra https://console.cloud.google.com/apis/credentials
+Para criar outra entre em https://console.cloud.google.com/apis/credentials
 YouTube API V3 do Google.
