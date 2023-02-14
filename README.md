@@ -1,14 +1,4 @@
-# ReduxSimpleStarter
-
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
-
-### Getting Started
-
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
+# Basic React
 ```
 > git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
 > cd ReduxSimpleStarter
@@ -16,10 +6,10 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 > npm start
 ```
 
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+# Praticando com React
+Atividade Pratica com React, um projeto simples de um site de videos que consome um api do google.
 
-```
-> npm install
-> npm start
-```
+A CHAVE_API foi excluída.
+
+Para criar outra https://console.cloud.google.com/apis/credentials
+YouTube API V3 do Google.
